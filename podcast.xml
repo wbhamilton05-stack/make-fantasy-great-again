@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MFGA Radio</title>
+    <link>https://wbhamilton05-stack.github.io/make-fantasy-great-again/</link>
+    <atom:link href="https://wbhamilton05-stack.github.io/make-fantasy-great-again/podcast.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Hank and Sal break down the week in a twelve-team best-ball league of Texas Longhorn friends: the winner, the standings, Player of the Week, the Covfefe Award, the Deep State Bench, the Longhorn Desk, the Tariff. Every number is the number on the league page. Nobody sets a lineup. Nobody can be robbed. Parody; the commentary is a joke.</description>
+    <itunes:subtitle>Make Fantasy Great Again -- the official weekly show of the TSR Best Ball League</itunes:subtitle>
+    <itunes:author>The Commissioner&#x27;s Office</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Sports"><itunes:category text="Fantasy Sports"/></itunes:category>
+    <itunes:category text="Comedy"/>
+    <item>
+      <title>Week 2 -- MFGA Radio</title>
+      <description>Week 2 of the TSR Best Ball League: who won, who moved, who got the Covfefe, and the Longhorn Desk. Hank and Sal.</description>
+      <enclosure url="https://wbhamilton05-stack.github.io/make-fantasy-great-again/podcasts/week-02.mp3" length="3923756" type="audio/mpeg"/>
+      <guid isPermaLink="false">mfga-radio-week-02</guid>
+      <pubDate>Wed, 23 Sep 2026 16:52:42 GMT</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>0:08:10</itunes:duration>
+    </item>
+  </channel>
+</rss>
