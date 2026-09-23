@@ -1,0 +1,31 @@
+{
+  "name": "Make Fantasy Great Again",
+  "short_name": "MFGA",
+  "description": "The TSR Best Ball League. Standings, every week's optimal lineups, MFGA Radio. Refreshes hourly while games are on.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b2555",
+  "theme_color": "#0b2555",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
